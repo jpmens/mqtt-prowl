@@ -41,7 +41,7 @@ mosquitto_pub -t test/one -m 'Introducing mqtt-prowl. :-)'
 
 After a few seconds, you should see the result in your Prowl app:
 
-![prowl.png]
+![Prowl](prowl.png)
 
 ## Requires
 
