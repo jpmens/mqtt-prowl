@@ -1,6 +1,8 @@
 
 # MQTT-PROWL
 
+** This program is obsolete: see [mqttwarn](https://github.com/jpmens/mqttwarn) for a much more capable program **
+
 Subscribes to any number of MQTT topics and notifies via [Prowl](http://www.prowlapp.com/).
 
 Configuration is expected in the `mqtt-prowl.ini` file (a sample template is
